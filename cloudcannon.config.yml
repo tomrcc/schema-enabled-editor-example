@@ -25,7 +25,6 @@ collections_config:
           - content
     add_options:
       - name: Add Site Page
-        base_path: /
         schema: default
       - name: Add Visual Ed Page
         schema: diff
