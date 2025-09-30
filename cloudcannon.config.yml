@@ -31,6 +31,8 @@ collections_config:
           title: 
             type: text
             label: Page Title diffy schema
+            options:
+              required: true
     add_options:
       - name: Add Site Page
         schema: default
